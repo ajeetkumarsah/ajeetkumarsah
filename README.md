@@ -15,7 +15,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajeetkumarsah&&show_icons=true&title_color=ffffff&icon_color=00c1bc&text_color=daf7dc&bg_color=151515">
 
   
 
@@ -47,6 +46,8 @@
 <br />
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api?username=ajeetkumarsah&&show_icons=true&title_color=ffffff&icon_color=00c1bc&text_color=daf7dc&bg_color=151515">
+<br/>
 
 [twitter]: https://twitter.com/ajeetkumarshaw1
 [youtube]: https://www.youtube.com/channel/UCx-xRpG74JMVPJAW3GalE2g
