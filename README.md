@@ -14,6 +14,10 @@
                       [Facebook - Aminem Shaw](https://www.facebook.com/ajeetkumar.shaw.925).
 - 😄 Pronouns: He/his
 
+Connect with me:
+codeSTACKr | YouTubecodeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajeetkumarsah&&show_icons=true&title_color=ffffff&icon_color=00c1bc&text_color=daf7dc&bg_color=151515">
 
