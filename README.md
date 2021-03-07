@@ -15,7 +15,7 @@
 - 😄 Pronouns: He/his
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajeetshaw&&show_icons=true&title_color=ffffff&icon_color=00c1bc&text_color=daf7dc&bg_color=151515">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeetkumarsah)](https://github.com/ajeetkumarsah/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ajeetkumarsah&&show_icons=true&title_color=ffffff&icon_color=00c1bc&text_color=daf7dc&bg_color=151515">
+
   
 
