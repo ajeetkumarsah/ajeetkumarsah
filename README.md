@@ -29,11 +29,7 @@
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
-[twitter]: https://twitter.com/ajeetkumarshaw1
-[youtube]: https://www.youtube.com/channel/UCx-xRpG74JMVPJAW3GalE2g
-[instagram]: https://www.instagram.com/aminem_shaw/
-[linkedin]: https://www.linkedin.com/in/ajeet-kumar-sah-96b7811a5/
-[facebook]: https://www.facebook.com/ajeetkumar.shaw.925
+
 
 ### Languages and Tools:
 
@@ -52,5 +48,9 @@
 <br />
 
 
-
+[twitter]: https://twitter.com/ajeetkumarshaw1
+[youtube]: https://www.youtube.com/channel/UCx-xRpG74JMVPJAW3GalE2g
+[instagram]: https://www.instagram.com/aminem_shaw/
+[linkedin]: https://www.linkedin.com/in/ajeet-kumar-sah-96b7811a5/
+[facebook]: https://www.facebook.com/ajeetkumar.shaw.925
 
