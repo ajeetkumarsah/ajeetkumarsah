@@ -57,7 +57,7 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajeetkumarsah&&show_icons=true&title_color=ce0a36&icon_color=00c1bc&text_color=daf7dc&bg_color=000000">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ajeetkumarsah&&show_icons=true&title_color=ce0a36&icon_color=00c1bc&text_color=daf7dc&bg_color=000000">
 
 
 
