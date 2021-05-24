@@ -20,6 +20,26 @@
 
 
 ### Connect with me:
+<a href="https://youtube.com/">
+  <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg"/>
+</a>
+<a href="https://twitter.com/">
+  <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/twitter.svg"/>
+</a>
+<a href="https://discord.com/invite/">
+  <img align="left" alt="Abdul Aziz Ahwan's Discord" width="24px" src="/assets/discord.svg"/>
+</a>
+<a href="https://youtube.com/">
+  <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg"/>
+</a>
+<a href="https://twitter.com/">
+  <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/twitter.svg"/>
+</a>
+<a href="https://discord.com/invite/">
+  <img align="left" alt="Abdul Aziz Ahwan's Discord" width="24px" src="/assets/discord.svg"/>
+</a>
+
+<br />
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
