@@ -86,4 +86,4 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkuarsah&layout=compact&theme=algolia"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkumarsah&layout=compact&theme=algolia"/>
