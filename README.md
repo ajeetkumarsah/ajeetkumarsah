@@ -5,7 +5,7 @@
 
 ### I'm a Software Developer!
 
-- 🔭 I’m currently working on Trapo and oneGST(Mobile Application).
+- 🔭 I’m currently working on Trapo(Mobile Application).
 - 🌱 I’m currently learning Flutter & Cloud Firebase.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help for myself.
