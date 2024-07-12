@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cross Platform Mobile Application.<br>🤝 I’m looking for help with Flutter.<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Flutter.<br>
+🔭 I’m currently working with Flutter.<br>🤝 I’m looking for help with Flutter.<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Flutter.<br>
 
 
 ## 🌐 Socials:
